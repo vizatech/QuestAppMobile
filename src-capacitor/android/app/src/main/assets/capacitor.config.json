@@ -1,0 +1,7 @@
+{
+  "appId": "org.freegen.ar.app",
+  "appName": "FreeGen AR App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

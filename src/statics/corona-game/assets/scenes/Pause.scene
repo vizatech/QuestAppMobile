@@ -1,0 +1,20 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.1.6",
+  "-version": 1,
+  "compilerLang": "JAVA_SCRIPT_6",
+  "displayList": {
+    "-id": "d56d51e6-9f61-4a0e-916d-3dbc5d15557c",
+    "-type": "DisplayList",
+    "children": []
+  },
+  "groups": {
+    "-id": "3482ad3f-56a7-4f54-9f7f-405a72417c9e",
+    "-type": "Groups",
+    "children": []
+  },
+  "borderWidth": 640,
+  "borderHeight": 670,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "Pause"
+}

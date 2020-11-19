@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <title>Kyiv vs Corona</title>
+
+	<script src="https://cdn.jsdelivr.net/npm/phaser@3.22.0/dist/phaser.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+	<script src="main.js"></script>
+	<style>
+		body {
+			background: white;
+			margin: 0;
+			padding: 0;
+		}
+		
+		* {
+			-webkit-touch-callout: none;
+			-webkit-text-size-adjust: none; 
+			-webkit-user-select: none;
+    		touch-action: none;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="game-container">
+	</div>
+	
+	<!-- The core Firebase JS SDK is always required and must be listed first -->
+	<script src="https://www.gstatic.com/firebasejs/7.13.2/firebase-app.js"></script>
+	
+	<!-- TODO: Add SDKs for Firebase products that you want to use
+	     https://firebase.google.com/docs/web/setup#available-libraries -->
+	<script src="https://www.gstatic.com/firebasejs/7.13.2/firebase-analytics.js"></script>
+	
+	<script>
+	  // Your web app's Firebase configuration
+	  var firebaseConfig = {
+	    apiKey: "AIzaSyD3glLcFWap1kzDbTgJWbJMeG0jFTYDDPs",
+	    authDomain: "freegengame.firebaseapp.com",
+	    databaseURL: "https://freegengame.firebaseio.com",
+	    projectId: "freegengame",
+	    storageBucket: "freegengame.appspot.com",
+	    messagingSenderId: "468620075309",
+	    appId: "1:468620075309:web:f2885bb3e98cfdcd6573a4",
+	    measurementId: "G-95489KNMVX"
+	  };
+	  // Initialize Firebase
+	  firebase.initializeApp(firebaseConfig);
+	  firebase.analytics();
+	</script>
+</body>
+</html>

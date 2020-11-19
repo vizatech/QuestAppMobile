@@ -1,0 +1,162 @@
+{
+  "section": {"files": [
+    {
+      "type": "sceneFile",
+      "key": "Gameplay",
+      "url": "assets/scenes/Gameplay.js"
+    },
+    {
+      "type": "script",
+      "key": "Enemy",
+      "url": "assets/scripts/Enemy.js"
+    },
+    {
+      "type": "script",
+      "key": "NetHandler",
+      "url": "assets/scripts/NetHandler.js"
+    },
+    {
+      "type": "svg",
+      "key": "hitButton",
+      "url": "assets/images/hitButton.svg"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Outro",
+      "url": "assets/scenes/Outro.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Pause",
+      "url": "assets/scenes/Pause.js"
+    },
+    {
+      "type": "audio",
+      "key": "hitPunch0",
+      "url": ["assets/sounds/hitPunch0.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "hitStart0",
+      "url": ["assets/sounds/hitStart0.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "pandemicDeath",
+      "url": ["assets/sounds/pandemicDeath.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "pandemicSpawn",
+      "url": ["assets/sounds/pandemicSpawn.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "hitPunch2",
+      "url": ["assets/sounds/hitPunch2.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "hitStart1",
+      "url": ["assets/sounds/hitStart1.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "hitPunch1",
+      "url": ["assets/sounds/hitPunch1.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "hitStart2",
+      "url": ["assets/sounds/hitStart2.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "klichkoShastat",
+      "url": ["assets/sounds/klichkoShastat.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "klichkoSmotret",
+      "url": ["assets/sounds/klichkoSmotret.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "gameOverWon",
+      "url": ["assets/sounds/gameOverWon.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "theme",
+      "url": ["assets/sounds/theme.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "hitBonus1",
+      "url": ["assets/sounds/hitBonus1.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "hitBonus0",
+      "url": ["assets/sounds/hitBonus0.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "hitBonus2",
+      "url": ["assets/sounds/hitBonus2.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "hitStart3",
+      "url": ["assets/sounds/hitStart3.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "enemyDeath5",
+      "url": ["assets/sounds/enemyDeath5.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "enemyEating",
+      "url": ["assets/sounds/enemyEating.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "enemyDeath4",
+      "url": ["assets/sounds/enemyDeath4.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "enemyDeath3",
+      "url": ["assets/sounds/enemyDeath3.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "enemyDeath2",
+      "url": ["assets/sounds/enemyDeath2.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "enemyDeath0",
+      "url": ["assets/sounds/enemyDeath0.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "gameOverLose",
+      "url": ["assets/sounds/gameOverLose.mp3"]
+    },
+    {
+      "type": "multiatlas",
+      "key": "textures",
+      "url": "assets/atlas/textures.json",
+      "path": "assets/atlas"
+    }
+  ]},
+  "meta": {
+    "generated": "1586424379198",
+    "app": "Phaser Editor 2D - Asset Pack Editor - 2.1.6",
+    "contentType": "Phaser v3 Asset Pack",
+    "url": "https://phasereditor2d.com",
+    "version": "2"
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="-3.2 -3.2 38.4 38.4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>control-c-button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="control-c-button" fill-rule="nonzero">
+            <path d="M30.426,16 C30.426,23.967 23.967,30.426 16,30.426 C8.033,30.426 1.574,23.967 1.574,16 C1.574,8.033 8.033,1.574 16,1.574 C23.967,1.574 30.426,8.033 30.426,16 Z" id="Shape" fill="#B1B6B7"></path>
+            <path d="M16,31.213 C7.612,31.213 0.787,24.388 0.787,16 C0.787,7.612 7.612,0.787 16,0.787 C24.389,0.787 31.213,7.612 31.213,16 C31.213,24.388 24.388,31.213 16,31.213 Z M16,2.361 C8.479,2.361 2.361,8.48 2.361,16 C2.361,23.52 8.48,29.639 16,29.639 C23.52,29.639 29.639,23.52 29.639,16 C29.639,8.48 23.52,2.361 16,2.361 Z" id="Shape" fill="#EDEEEF"></path>
+        </g>
+    </g>
+</svg>
